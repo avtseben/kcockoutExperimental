@@ -1,0 +1,3 @@
+[submodule "knockout"]
+	path = knockout
+	url = https://github.com/knockout/knockout.git
